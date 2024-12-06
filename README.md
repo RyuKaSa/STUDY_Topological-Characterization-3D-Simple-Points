@@ -1,1 +1,3 @@
-Check .pdf file "Assignment.pdf" for the study
+## Assignment PDF
+
+The final PDF of the assignment can be accessed [here](./docs/Assignment.pdf).
